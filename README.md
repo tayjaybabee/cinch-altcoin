@@ -17,7 +17,7 @@ All of these dependencies are available on Ruby 1.9+ out of the box.
 
 In order for this plugin to work the following is required to insert into bot.rb for operation.
 
-At the beginning of Eve.rb in the required scripts section put this:
+At the beginning of bot.rb in the required scripts section put this:
 
     require 'cinch-altcoin'
 
