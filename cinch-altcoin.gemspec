@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'cinch-altcoin'
-  s.version     = '1.0'
+  s.version     = '1.0.1'
   s.summary     =
   s.description = 'A Cinch plugin to get information on all altcoins.'
   s.licenses    = ['MIT']
