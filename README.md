@@ -1,0 +1,4 @@
+cinch-altcoin
+=============
+
+cinch-altcoin
